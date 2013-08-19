@@ -1,3 +1,4 @@
-1 + 2 = x
+puts "Hi, what's your name?"
+name = gets.chomp
 
-puts x
+puts "Nice to meet you #{name}"
